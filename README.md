@@ -1,2 +1,4 @@
 # Internacionalizar_exercicio
-Atividade aula 1. Internacionalização
+Programação para Dispositivos Moveis
+Atividade Aula 1.
+Internacionalização
